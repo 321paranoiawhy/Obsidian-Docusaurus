@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>321paranoiawhy's obsidian notes deployed by docusaurus Blog</title>
+        <title>&lt;a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target="_blank" rel="noopener noreferrer" href="https://docusaurus.io/"&gt;Docusaurus&lt;/a&gt; Blog</title>
         <link>https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog</link>
-        <description>321paranoiawhy's obsidian notes deployed by docusaurus Blog</description>
+        <description>&lt;a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target="_blank" rel="noopener noreferrer" href="https://docusaurus.io/"&gt;Docusaurus&lt;/a&gt; Blog</description>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

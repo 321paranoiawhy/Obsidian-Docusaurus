@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>321paranoiawhy&#39;s obsidian notes deployed by docusaurus</ShortName>
-  <Description>Search 321paranoiawhy&#39;s obsidian notes deployed by docusaurus</Description>
+  <ShortName>&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://obsidian.md/&quot;&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://docusaurus.io/&quot;&gt;Docusaurus&lt;/a&gt;</ShortName>
+  <Description>Search &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://obsidian.md/&quot;&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://docusaurus.io/&quot;&gt;Docusaurus&lt;/a&gt;</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://321paranoiawhy.github.io/Obsidian-Docusaurus/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://321paranoiawhy.github.io/Obsidian-Docusaurus/search?q={searchTerms}"/>
