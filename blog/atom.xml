@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zack.onrender.com/obsidian/blog</id>
+    <id>https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog</id>
     <title>321paranoiawhy's obsidian notes deployed by docusaurus Blog</title>
     <updated>2019-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zack.onrender.com/obsidian/blog"/>
+    <link rel="alternate" href="https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog"/>
     <subtitle>321paranoiawhy's obsidian notes deployed by docusaurus Blog</subtitle>
-    <icon>https://zack.onrender.com/obsidian/img/favicon.ico</icon>
+    <icon>https://321paranoiawhy.github.io/Obsidian-Docusaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://zack.onrender.com/obsidian/blog/first-blog-post</id>
-        <link href="https://zack.onrender.com/obsidian/blog/first-blog-post"/>
+        <id>https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog/first-blog-post</id>
+        <link href="https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
