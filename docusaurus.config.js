@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Zack's note and blogs",
+  title: "321paranoiawhy's obsidian notes deployed by docusaurus",
   tagline: 'Brief notes here and there',
-  url: 'https://zack.onrender.com',
-  baseUrl: '/',
+  url: 'https://321paranoiawhy.github.io/Obsidian-Docusaurus/',
+  baseUrl: '/Obsidian-Docusaurus',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,8 +17,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'zekaryas1', // Usually your GitHub org/user name.
-  projectName: 'notes', // Usually your repo name.
+  organizationName: '321paranoiawhy', // Usually your GitHub org/user name.
+  projectName: 'Obsidian-Docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
