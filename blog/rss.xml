@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>&lt;a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target="_blank" rel="noopener noreferrer" href="https://docusaurus.io/"&gt;Docusaurus&lt;/a&gt; Blog</title>
+        <title>321paranoiawhy's Obsidian notes Blog</title>
         <link>https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog</link>
-        <description>&lt;a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target="_blank" rel="noopener noreferrer" href="https://docusaurus.io/"&gt;Docusaurus&lt;/a&gt; Blog</description>
+        <description>321paranoiawhy's Obsidian notes Blog</description>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>en</language>
+        <language>zh-Hans</language>
         <item>
             <title><![CDATA[First Blog Post]]></title>
             <link>https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog/first-blog-post</link>

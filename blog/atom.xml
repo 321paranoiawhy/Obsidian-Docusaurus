@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog</id>
-    <title>&lt;a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target="_blank" rel="noopener noreferrer" href="https://docusaurus.io/"&gt;Docusaurus&lt;/a&gt; Blog</title>
+    <title>321paranoiawhy's Obsidian notes Blog</title>
     <updated>2019-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://321paranoiawhy.github.io/Obsidian-Docusaurus/blog"/>
-    <subtitle>&lt;a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"&gt;Obsidian&lt;/a&gt; notes deployed by &lt;a target="_blank" rel="noopener noreferrer" href="https://docusaurus.io/"&gt;Docusaurus&lt;/a&gt; Blog</subtitle>
+    <subtitle>321paranoiawhy's Obsidian notes Blog</subtitle>
     <icon>https://321paranoiawhy.github.io/Obsidian-Docusaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
